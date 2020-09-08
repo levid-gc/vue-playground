@@ -38,5 +38,8 @@
   - [系统修饰符](https://cn.vuejs.org/v2/guide/events.html#%E6%8C%89%E9%94%AE%E4%BF%AE%E9%A5%B0%E7%AC%A6)
 - 【观察】事件被绑定到哪里？
   
+## 表单
 
-- 表单
+- `v-model`
+- 常见表单项 `textarea`, `checkbox`, `radio`, `select`
+- 修饰符 `lazy`, `number`, `trim`

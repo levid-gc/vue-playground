@@ -5,6 +5,7 @@ import VClass from './components/VClass.vue';
 import VCondition from './components/VCondition.vue';
 import VList from './components/VList.vue';
 import VEvent from './components/VEvent.vue';
+import VForm from './components/VForm.vue';
 
 const routes = [
   { path: '/template', component: VTemplate },
@@ -13,7 +14,8 @@ const routes = [
   { path: '/class', component: VClass },
   { path: '/condition', component: VCondition },
   { path: '/list', component: VList },
-  { path: '/event', component: VEvent }
+  { path: '/event', component: VEvent },
+  { path: '/form', component: VForm }
 ];
 
 export default routes;
