@@ -29,5 +29,14 @@
 - `key` 的重要性。`key` 不能乱写（如 random 或者 index）
 - `v-for` 和 `v-if` 不要一起使用，`v-for` 的优先级高于 `v-if`
 
-- 事件
+## 事件
+
+- `event` 参数，自定义参数
+- 事件修饰符，按键修饰符
+  - [事件修饰符](https://cn.vuejs.org/v2/guide/events.html#%E4%BA%8B%E4%BB%B6%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+  - [按键修饰符](https://cn.vuejs.org/v2/guide/events.html#%E6%8C%89%E9%94%AE%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+  - [系统修饰符](https://cn.vuejs.org/v2/guide/events.html#%E6%8C%89%E9%94%AE%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+- 【观察】事件被绑定到哪里？
+  
+
 - 表单

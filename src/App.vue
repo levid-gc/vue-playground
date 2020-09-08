@@ -7,6 +7,7 @@
       <router-link to="/class">class 和 style</router-link>
       <router-link to="/condition">条件渲染</router-link>
       <router-link to="/list">循环渲染</router-link>
+      <router-link to="/event">事件</router-link>
     </p>
     <router-view></router-view>
   </div>
