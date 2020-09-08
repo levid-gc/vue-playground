@@ -15,7 +15,7 @@
 import { Vue, Component } from 'vue-property-decorator';
 
 @Component
-class Template extends Vue {
+class VTemplate extends Vue {
   message = 'hello vue';
 
   flag = true;
@@ -25,5 +25,5 @@ class Template extends Vue {
   rawHtml = '指令——原始 html <b>加粗</b> <i>斜体</i>';
 }
 
-export default Template;
+export default VTemplate;
 </script>
