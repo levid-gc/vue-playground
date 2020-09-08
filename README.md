@@ -9,11 +9,14 @@
 ## computed 和 watch
 
 - computed 有缓存，data 不变则不会重新计算
-- watch 如何深度监听？
+- watch 设置 `deep` 进行深度监听
 - watch 监听引用类型，拿不到 `oldVal`
 
+## class 和 style
 
-- class 和 style
+- 使用动态属性
+- 使用驼峰式写法
+
 - 条件
 - 循环
 - 事件
