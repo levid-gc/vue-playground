@@ -1,5 +1,5 @@
 {
-  "name": "vue-learning-basics",
+  "name": "vue-learning-component",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -28,6 +28,6 @@
     "typescript": "~3.9.3",
     "vue-template-compiler": "^2.6.11"
   },
-  "_id": "vue-learning-basics@0.1.0",
+  "_id": "vue-learning-component@0.1.0",
   "readme": "ERROR: No README data found!"
 }
