@@ -7,6 +7,7 @@
       <router-link to="/dynamic-component">动态组件</router-link>
       <router-link to="/async-component">异步组件</router-link>
       <router-link to="/keep-alive">keep-alive</router-link>
+      <router-link to="/mixin">mixin</router-link>
     </p>
     <router-view></router-view>
   </div>

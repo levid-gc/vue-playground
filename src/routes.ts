@@ -4,6 +4,7 @@ import VSlotDemo from './components/VSlot/VSlotDemo.vue';
 import VDynamicComponentDemo from './components/VDynamicComponent/VDynamicComponentDemo.vue';
 import VAsyncComponentDemo from './components/VAsyncComponent/VAsyncComponentDemo.vue';
 import VKeepAliveDemo from './components/VKeepAlive/VKeepAliveDemo.vue';
+import VMixinDemo from './components/VMixin/VMixinDemo.vue';
 
 const routes = [
   { path: '/v-model', component: VModelDemo },
@@ -12,6 +13,7 @@ const routes = [
   { path: '/dynamic-component', component: VDynamicComponentDemo },
   { path: '/async-component', component: VAsyncComponentDemo },
   { path: '/keep-alive', component: VKeepAliveDemo },
+  { path: '/mixin', component: VMixinDemo },
 ];
 
 export default routes;
