@@ -1,9 +1,8 @@
-# Vue 基本使用
+# Vue 高级特性
 
-- 模板（插值，指令）
-- `computed` 和 `watch`
-- class 和 style
-- 条件
-- 循环
-- 事件
-- 表单
+- 自定义 `v-model`
+- `$nextTick`
+- slot
+- 动态、异步组件
+- keep-alive
+- mixin
