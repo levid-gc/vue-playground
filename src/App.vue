@@ -6,6 +6,7 @@
       <router-link to="/slot">slot</router-link>
       <router-link to="/dynamic-component">动态组件</router-link>
       <router-link to="/async-component">异步组件</router-link>
+      <router-link to="/keep-alive">keep-alive</router-link>
     </p>
     <router-view></router-view>
   </div>
