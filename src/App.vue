@@ -2,6 +2,7 @@
   <div>
     <p class="nav">
       <router-link to="/v-model">v-model</router-link>
+      <router-link to="/next-tick">$nextTick</router-link>
     </p>
     <router-view></router-view>
   </div>
