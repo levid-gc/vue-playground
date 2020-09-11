@@ -96,3 +96,8 @@ data.name = 'vue3'; // set
 - 监听对象，监听数组
 - 复杂对象，深度监听
 - 几个缺点
+
+### Object.defineProperty 缺点
+
+- 深度监听，需要递归到底，一次性计算量大
+- 无法监听新增属性/删除属性（Vue.set Vue.delete）
