@@ -18,12 +18,12 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: '文档',
           position: 'left',
         },
         {
           to: 'blog',
-          label: 'Blog',
+          label: '博客',
           position: 'left'
         },
         {
